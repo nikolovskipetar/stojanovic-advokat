@@ -1712,6 +1712,7 @@ img{
 	position:relative;
 	padding:350px 0px 240px;
 	background-size:cover;
+	background-position: center;
 }
 
 .banner-section .content{
