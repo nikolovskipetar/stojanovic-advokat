@@ -449,6 +449,9 @@ img{
 	margin-bottom:10px;
 	padding-left:25px;
 }
+.list-style-three li a{
+	color: inherit;
+}
 
 .list-style-three li .icon{
 	position:absolute;
